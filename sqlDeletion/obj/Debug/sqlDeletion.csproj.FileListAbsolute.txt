@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\DataManipulationLanguage\sqlDeletion\bin\Debug\sqlDeletion.exe.config
+C:\Users\User\Desktop\DataManipulationLanguage\sqlDeletion\bin\Debug\sqlDeletion.exe
+C:\Users\User\Desktop\DataManipulationLanguage\sqlDeletion\bin\Debug\sqlDeletion.pdb
+C:\Users\User\Desktop\DataManipulationLanguage\sqlDeletion\obj\Debug\sqlDeletion.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DataManipulationLanguage\sqlDeletion\obj\Debug\sqlDeletion.exe
+C:\Users\User\Desktop\DataManipulationLanguage\sqlDeletion\obj\Debug\sqlDeletion.pdb
+C:\Sola2017-18\RAC\Csharp\DataManipulationLanguage\sqlDeletion\bin\Debug\sqlDeletion.exe.config
+C:\Sola2017-18\RAC\Csharp\DataManipulationLanguage\sqlDeletion\obj\Debug\sqlDeletion.exe
+C:\Sola2017-18\RAC\Csharp\DataManipulationLanguage\sqlDeletion\obj\Debug\sqlDeletion.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\DataManipulationLanguage\fileImena\bin\Debug\fileImena.exe.config
+C:\Users\User\Desktop\DataManipulationLanguage\fileImena\bin\Debug\fileImena.exe
+C:\Users\User\Desktop\DataManipulationLanguage\fileImena\bin\Debug\fileImena.pdb
+C:\Users\User\Desktop\DataManipulationLanguage\fileImena\obj\Debug\fileImena.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DataManipulationLanguage\fileImena\obj\Debug\fileImena.exe
+C:\Users\User\Desktop\DataManipulationLanguage\fileImena\obj\Debug\fileImena.pdb

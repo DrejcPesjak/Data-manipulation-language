@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\DataManipulationLanguage\LoremIpsum\bin\Debug\LoremIpsum.exe.config
+C:\Users\User\Desktop\DataManipulationLanguage\LoremIpsum\bin\Debug\LoremIpsum.exe
+C:\Users\User\Desktop\DataManipulationLanguage\LoremIpsum\bin\Debug\LoremIpsum.pdb
+C:\Users\User\Desktop\DataManipulationLanguage\LoremIpsum\obj\Debug\LoremIpsum.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DataManipulationLanguage\LoremIpsum\obj\Debug\LoremIpsum.exe
+C:\Users\User\Desktop\DataManipulationLanguage\LoremIpsum\obj\Debug\LoremIpsum.pdb

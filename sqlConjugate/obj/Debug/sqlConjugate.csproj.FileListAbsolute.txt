@@ -1,0 +1,6 @@
+C:\Sola2017-18\RAC\Csharp\DataManipulationLanguage\sqlConjugate\bin\Debug\sqlConjugate.exe.config
+C:\Sola2017-18\RAC\Csharp\DataManipulationLanguage\sqlConjugate\bin\Debug\sqlConjugate.exe
+C:\Sola2017-18\RAC\Csharp\DataManipulationLanguage\sqlConjugate\bin\Debug\sqlConjugate.pdb
+C:\Sola2017-18\RAC\Csharp\DataManipulationLanguage\sqlConjugate\obj\Debug\sqlConjugate.csprojResolveAssemblyReference.cache
+C:\Sola2017-18\RAC\Csharp\DataManipulationLanguage\sqlConjugate\obj\Debug\sqlConjugate.exe
+C:\Sola2017-18\RAC\Csharp\DataManipulationLanguage\sqlConjugate\obj\Debug\sqlConjugate.pdb

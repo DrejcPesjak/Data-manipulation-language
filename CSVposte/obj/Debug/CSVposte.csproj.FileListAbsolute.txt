@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\DataManipulationLanguage\CSVposte\bin\Debug\CSVposte.exe.config
+C:\Users\User\Desktop\DataManipulationLanguage\CSVposte\bin\Debug\CSVposte.exe
+C:\Users\User\Desktop\DataManipulationLanguage\CSVposte\bin\Debug\CSVposte.pdb
+C:\Users\User\Desktop\DataManipulationLanguage\CSVposte\obj\Debug\CSVposte.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DataManipulationLanguage\CSVposte\obj\Debug\CSVposte.exe
+C:\Users\User\Desktop\DataManipulationLanguage\CSVposte\obj\Debug\CSVposte.pdb

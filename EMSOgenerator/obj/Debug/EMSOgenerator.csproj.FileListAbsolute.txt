@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\DataManipulationLanguage\EMSOgenerator\bin\Debug\EMSOgenerator.exe.config
+C:\Users\User\Desktop\DataManipulationLanguage\EMSOgenerator\bin\Debug\EMSOgenerator.exe
+C:\Users\User\Desktop\DataManipulationLanguage\EMSOgenerator\bin\Debug\EMSOgenerator.pdb
+C:\Users\User\Desktop\DataManipulationLanguage\EMSOgenerator\obj\Debug\EMSOgenerator.exe
+C:\Users\User\Desktop\DataManipulationLanguage\EMSOgenerator\obj\Debug\EMSOgenerator.pdb
+C:\Users\User\Desktop\DataManipulationLanguage\EMSOgenerator\obj\Debug\EMSOgenerator.csprojResolveAssemblyReference.cache
